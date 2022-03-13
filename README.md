@@ -16,7 +16,7 @@ These are all the [Mammoth Interactive][mammoth] online courses I completed to l
 1. :o: Learn Unity by Building a 3D Runner Game (Free Downloadable eBook) :rocket:
 2. :o: Introduction to Unity (Free Downloadable eBook) :rocket:
 3. :o: The Complete Game Developer Course - Build 80 Games in Construct 2 :rocket:
-4. :o: [Learn to Make a Game in 30 Minutes for FREE](https://github.com/learning-game-development/learning-construct-3-game-development/tree/master/learn-to-make-a-game-in-30-minutes-for-free) :rocket:
+4. :heavy_check_mark: [Learn to Make a Game in 30 Minutes for FREE](https://github.com/learning-game-development/learning-construct-3-game-development/tree/master/learn-to-make-a-game-in-30-minutes-for-free) :rocket:
 
 ## Other Online Courses
 
