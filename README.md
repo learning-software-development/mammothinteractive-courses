@@ -20,7 +20,7 @@ These are all the [Mammoth Interactive][mammoth] online courses I completed to l
 
 ## Other Online Courses
 
-1. :o: Introduction to Blender (Free Downloadable eBook)
+1. :o: [Introduction to Blender (Free Downloadable eBook)](/) :rocket:
 
 ## :page_with_curl: License
 
