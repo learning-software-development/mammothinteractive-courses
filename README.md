@@ -11,16 +11,16 @@ These are all the [Mammoth Interactive][mammoth] online courses I completed to l
 2. :heavy_check_mark: Coding for Cats | Cat-Themed JavaScript Course
 3. :heavy_check_mark: Learn to code in 30 minutes!
 
-## :beginner: Game Development Courses
+## :beginner: :video_game: Game Development Courses
 
-1. :o: Learn Unity by Building a 3D Runner Game (Free Downloadable eBook) :rocket:
-2. :o: Introduction to Unity (Free Downloadable eBook) :rocket:
+1. :o: [Introduction to Unity (Free Downloadable eBook)](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+2. :o: [Learn Unity by Building a 3D Runner Game (Free Downloadable eBook)](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 3. :o: The Complete Game Developer Course - Build 80 Games in Construct 2 :rocket:
 4. :heavy_check_mark: [Learn to Make a Game in 30 Minutes for FREE](https://github.com/learning-game-development/learning-construct-3-game-development/tree/master/learn-to-make-a-game-in-30-minutes-for-free) :rocket:
 
 ## Other Online Courses
 
-1. :o: [Introduction to Blender (Free Downloadable eBook)](/) :rocket:
+1. :o: [Introduction to Blender (Free Downloadable eBook)](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/ebook-courses-tutorials/introduction-to-blender) :rocket:
 
 ## :page_with_curl: License
 
